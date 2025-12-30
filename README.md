@@ -1,2 +1,4 @@
 # weeek_1_2543102
-From 6 week challenge of Github weekly commit .Completing the  first week challenge as creating the Calculator by using AWT &amp; divide by zero exception . Given by our College .
+Participated in 6 Week Challenge as "GitHub Weekly Commit Challenge" By my college . 
+First week challenge as :-
+Creating the GUI for a Calculator in 'Java' by using AWT & divide by zero exception . 
